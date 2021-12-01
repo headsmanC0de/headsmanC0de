@@ -55,7 +55,7 @@ Waiting...
 
 ## About me:
 
-- 🔭 I'm currently working at Softvison>.
+- 🔭 I'm currently working at Softvison.
 - 🌱 I'm currently learning React and its features.
 - 👯 I'm looking for interesting prospective projects.
 - 🤔 I'm looking for help with devops culture processes and methods.
