@@ -1,4 +1,4 @@
-### Hi there i'm Nazariy Petryk👋
+### Hi there i'm Nazariy👋
 
 <p align="center">
   <a href="https://www.linkedin.com/in/headsmanc0de/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-181717.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
