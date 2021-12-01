@@ -35,7 +35,7 @@
 <a href="#"><img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
 <a href="#"><img alt="GIT" src="https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white" /></a>
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-121011.svg?&style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/GITLAB-181717.svg?&style=flat-square&logo=gitlab&logoColor=white" /></a>
+<a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-181717.svg?&style=flat-square&logo=bitbucket&logoColor=white" /></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/PYTHON-14354C.svg?&style=flat-square&logo=python&logoColor=white" /></a>
 <a href="#"><img alt="MARKDOWN" src="https://img.shields.io/badge/MARKDOWN-000000.svg?&style=flat-square&logo=markdown&logoColor=white" /></a>
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></a>
