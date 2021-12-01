@@ -55,12 +55,11 @@ Waiting...
 
 ## About me:
 
-- 🔭 I am currently working at <Codara />.
-- 🌱 I'm currently learning Data Science & Big Data Analytics
-- 👯 I am looking to collaborate on multiplatform development projects and data analysis.
+- 🔭 I'm currently working at Softvison>.
+- 🌱 I'm currently learning React and its features.
+- 👯 I'm looking for interesting prospective projects.
 - 🤔 I'm looking for help with devops culture processes and methods.
 - 💬 Ask me about software architecture and business intelligence.
-- ⚡ Curiosity: UX | UI Design, Chatsbots, Blockchain, Cryptocurrencies.
-
+- ⚡ Curiosity: UX | UI design, chatbots, blockchain, cryptocurrencies.
 -->
  
