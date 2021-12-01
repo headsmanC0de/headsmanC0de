@@ -10,7 +10,7 @@ TypeScript, React, Redux, Material UI, Node.js, NextJS.
 <p align="center">
   <a href="https://www.linkedin.com/in/headsmanc0de/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/headsmanc0de" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-181717.svg?&style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_headsmanc0de/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-bc2a8d.svg?&style=flat-square&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_headsmanc0de/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-181717.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>  
 
 ---
