@@ -47,9 +47,10 @@
 </p>
   
   
-<a href="https://myoctocat.dev/@sw-yx/octocat">
-  <img align="right" src="https://headsmanc0de.com/assets/img/about.jpg" width=200 borderRadius=50% />
+<a href="https://headsmanc0de.com/">
+  <img align="right" src="https://headsmanc0de.com/assets/img/about.jpg" width=300 border-radius=50% />
 </a>
+  
 ## Skills & Endorsements
 Waiting...
 
