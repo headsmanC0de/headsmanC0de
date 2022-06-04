@@ -47,7 +47,7 @@
   
   
 <a href="https://headsmanc0de.com/">
-  <img align="right" src="https://headsmanc0de.com/assets/img/about.jpg" width=300 border-radius=50% />
+  <img align="right" src="https://headsmanc0de.com/images/avatar.webp" width=300 border-radius=50% />
 </a>
   
 ## Skills & Endorsements
